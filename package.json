@@ -21,7 +21,7 @@
     "shiki": "^1.2.2"
   },
   "devDependencies": {
-    "@sparticuz/chromium": "^123.0.0",
+    "@sparticuz/chromium": "^123.0.1",
     "@sparticuz/chromium-min": "^123.0.0",
     "@types/node": "^20",
     "@types/react": "^18",
